@@ -1,0 +1,27 @@
+C:\Users\bitcoder\AppData\Local\Temporary Projects\StudentManagement\bin\Debug\StudentManagement.exe
+C:\Users\bitcoder\AppData\Local\Temporary Projects\StudentManagement\bin\Debug\StudentManagement.pdb
+C:\Users\bitcoder\AppData\Local\Temporary Projects\StudentManagement\obj\x86\Debug\StudentManagement.exe
+C:\Users\bitcoder\AppData\Local\Temporary Projects\StudentManagement\obj\x86\Debug\StudentManagement.pdb
+F:\projects\c#\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.exe
+F:\projects\c#\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.pdb
+F:\projects\c#\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+F:\projects\c#\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+F:\projects\c#\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.csprojResolveAssemblyReference.cache
+G:\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+G:\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+G:\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.csprojAssemblyReference.cache
+G:\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+G:\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.exe
+G:\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.pdb
+D:\jahani\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+D:\jahani\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+D:\jahani\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.csprojAssemblyReference.cache
+D:\jahani\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+D:\jahani\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.exe
+D:\jahani\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.pdb
+H:\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.csprojAssemblyReference.cache
+H:\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+H:\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.exe
+H:\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.pdb
+H:\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+H:\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
